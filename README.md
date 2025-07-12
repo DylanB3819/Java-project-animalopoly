@@ -1,2 +1,3 @@
 # Java-project-animalopoly
-a Java project developed in groups in college
+## This was a Java project developed in groups in college. We had to work through the phases of software development. The project itself is outlined in the pdf file within the repository, but simply the game is monopoly with animals instead of properties. I coded the game class, which combines all other classes to complete the game. In addition. I made some alterations to other classes like player and board to ensure that the classes interactly properly.
+## During this process, I came to appreciate the functionality of Java and OOP, which I had previously believed to be cubersome. The use of classes allowed for easy division of labour, with each of us developing different classes. The project also forced to improve my Java fundementals, including things like the use of arraylists.
